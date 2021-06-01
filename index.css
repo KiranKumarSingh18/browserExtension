@@ -1,0 +1,83 @@
+body{
+    height: 320px;
+    width: 300px;
+    color: #2D5675;
+}
+.container-one{
+    display: flex;
+}
+
+.dev-logo{
+    margin-top: 9px;
+    margin-left: 2px;
+}
+
+.main-heading{
+    margin-left: 6px;
+}
+
+h1{
+    font-size: 20px;
+}
+
+.version{
+    margin-top: 18px;
+    margin-left: 9px;
+}
+
+hr{
+    color: gray;
+}
+
+.middle-para{
+    margin: 0px;
+    padding: 10px;
+    text-align: center;
+}
+
+.programming-div{
+    margin-top: -12px;
+}
+
+.center-heading{
+    text-align: center;
+}
+
+.programming-links img{
+    margin-left: 25px;
+}
+
+.programming-prijects-div{
+    margin-top: -12px;
+}
+
+.programming-prijects-links img{
+    margin-left: 7px;
+    margin-right: 7px;
+}
+
+.markup-div{
+   margin-top: -12px;
+}
+
+.markup-links img{
+    margin-left: 25px;
+}
+
+
+img{
+    height: 40px;
+    width: 40px;
+}
+
+.get-more{
+    margin-left: 70%;
+    margin-top: 3px;
+    margin-right: 7px;
+    border-style: groove;
+    border-radius: 7px;
+}
+
+.get-more-btn{
+    text-decoration: none;
+}

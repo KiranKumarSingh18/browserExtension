@@ -1,0 +1,12 @@
+{
+    "name": "Course Detector",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "description": "Popular course Detector",
+    "icons":{
+        "16": "dev.png"
+    },
+    "browser_action":{
+        "default_popup": "index.html"
+    }
+}
